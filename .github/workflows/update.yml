@@ -1,0 +1,46 @@
+# run on a chron
+
+name: Update
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+env:
+  DENO_DIR: cache
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+
+      - uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Cache Deno dependencies
+        uses: actions/cache@v3
+        with:
+          path: ${{ env.DENO_DIR }}
+          key: ${{ hashFiles('deno.lock') }}
+
+      - name: Dependencies
+        run: |
+          deno cache --reload --lock=deno.lock scrape.ts
+
+      - name: Fetch
+        run: |
+          deno --allow-read --allow-write --allow-net scrape.ts
+
+      - name: commit
+        run: |
+          timestamp=$(date -u)
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -m "Updated: ${timestamp}" || exit 0
+          git push
