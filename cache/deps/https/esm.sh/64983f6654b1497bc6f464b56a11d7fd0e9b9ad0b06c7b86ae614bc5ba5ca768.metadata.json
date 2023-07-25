@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "x-content-source": "esm-worker",
+    "server": "cloudflare",
+    "access-control-allow-methods": "*",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "access-control-allow-origin": "*",
+    "date": "Tue, 25 Jul 2023 15:02:48 GMT",
+    "content-type": "application/javascript; charset=utf-8",
+    "vary": "Origin, Accept-Encoding",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=YJyV%2BeeLB8m%2FdY8SZVZL9JO6zY9otLGrwtcJx1WCyQWai0c73gUoFMCftqqpcWKkV9sO1peTNW6L64l114ZpogpiDL8y1dfOV81CkDZ7enFzOcbmAP1JS1A%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "cf-ray": "7ec54939ae0482ab-IAD",
+    "cache-control": "public, max-age=31536000, immutable"
+  },
+  "url": "https://esm.sh/v129/lodash.flatten@4.4.0/denonext/lodash.flatten.mjs",
+  "now": {
+    "secs_since_epoch": 1690297368,
+    "nanos_since_epoch": 713222865
+  }
+}

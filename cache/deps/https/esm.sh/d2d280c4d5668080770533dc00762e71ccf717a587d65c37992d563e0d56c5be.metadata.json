@@ -1,0 +1,24 @@
+{
+  "headers": {
+    "x-content-source": "https://esmbuild.com",
+    "access-control-expose-headers": "X-Esm-Id, X-TypeScript-Types",
+    "date": "Tue, 25 Jul 2023 15:02:48 GMT",
+    "access-control-allow-methods": "*",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=UHJdm4TOqnmSb3%2Ft8lwLa%2FcXdYbYWhw1G73TcwR9SR7wjhJeqWUA6TTxiyRZS5XUGQSbfxGugpolIdPLBW%2FewomLDh7YdEYQNbxL2BMDkgpsrtdxvqR4uG8%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "access-control-allow-origin": "*",
+    "content-type": "application/javascript; charset=utf-8",
+    "x-esm-id": "v129/cheerio@0.22.0/denonext/cheerio.mjs",
+    "vary": "Origin, User-Agent, Accept-Encoding",
+    "cache-control": "public, max-age=86400",
+    "x-typescript-types": "https://esm.sh/v129/@types/cheerio@~0.22/index.d.ts",
+    "server": "cloudflare",
+    "cf-ray": "7ec549380ba882ab-IAD"
+  },
+  "url": "https://esm.sh/cheerio@0.22.0",
+  "now": {
+    "secs_since_epoch": 1690297368,
+    "nanos_since_epoch": 547839021
+  }
+}

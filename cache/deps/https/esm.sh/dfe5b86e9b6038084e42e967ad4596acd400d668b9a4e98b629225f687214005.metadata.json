@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "server": "cloudflare",
+    "access-control-allow-origin": "*",
+    "vary": "Origin, Accept-Encoding",
+    "access-control-allow-methods": "*",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "cf-ray": "7ec54939ae0c82ab-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "x-content-source": "esm-worker",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=CJT4rGBveuy7ib%2FQ0iyuAgevKMIcCDM2Pl0Ln1FhFbd7VlXuzwLzZIATCiVYIDbvdLHG3pzI4yLDSFBIU0%2BlVn5jH4GViTbg7wobOzZLMkRJtBxEYfXxr2s%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-type": "application/javascript; charset=utf-8",
+    "date": "Tue, 25 Jul 2023 15:02:48 GMT"
+  },
+  "url": "https://esm.sh/v129/lodash.reduce@4.6.0/denonext/lodash.reduce.mjs",
+  "now": {
+    "secs_since_epoch": 1690297368,
+    "nanos_since_epoch": 767988511
+  }
+}

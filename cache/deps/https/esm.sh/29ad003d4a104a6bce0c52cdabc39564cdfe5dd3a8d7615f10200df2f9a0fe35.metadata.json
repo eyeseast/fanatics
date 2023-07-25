@@ -1,0 +1,24 @@
+{
+  "headers": {
+    "content-type": "application/javascript; charset=utf-8",
+    "age": "133438",
+    "x-content-source": "esm-worker",
+    "date": "Tue, 25 Jul 2023 15:02:48 GMT",
+    "cf-cache-status": "HIT",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "vary": "Origin, Accept-Encoding",
+    "access-control-allow-methods": "*",
+    "cache-control": "public, max-age=31536000, immutable",
+    "access-control-allow-origin": "*",
+    "cf-ray": "7ec54939ae0282ab-IAD",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=K6vVE6Pvtf6AbehKVffeW8cfC%2FnQbag4sklPcGxwa8GBeEViGIrMez90cWruxbvlaleM8rBgUbe8U%2FDVggzu8iev0vwWMlshEcuIzwAU9uqq1drUS%2F76H0Y%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "server": "cloudflare",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "last-modified": "Mon, 24 Jul 2023 01:58:50 GMT"
+  },
+  "url": "https://esm.sh/v129/lodash.merge@4.6.2/denonext/lodash.merge.mjs",
+  "now": {
+    "secs_since_epoch": 1690297368,
+    "nanos_since_epoch": 613065233
+  }
+}
