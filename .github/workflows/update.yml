@@ -7,7 +7,7 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: "5 12 * * *"
+    - cron: "5 */4 * * *"
 
 env:
   DENO_DIR: cache
