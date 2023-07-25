@@ -36,7 +36,7 @@ jobs:
 
       - name: Fetch
         run: |
-          deno --allow-read --allow-write --allow-net scrape.ts
+          deno run --allow-read --allow-write --allow-net scrape.ts
 
       - name: commit
         run: |
