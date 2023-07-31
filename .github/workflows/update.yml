@@ -32,7 +32,7 @@ jobs:
 
       - name: Dependencies
         run: |
-          deno cache --reload --lock=deno.lock scrape.ts
+          deno cache --reload --lock=deno.lock --lock-write scrape.ts
 
       - name: Fetch
         run: ./run.sh
