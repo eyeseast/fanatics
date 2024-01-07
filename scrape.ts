@@ -12,23 +12,25 @@ async function main() {
     .pipeThrough(
       new CsvParseStream({
         skipFirstRow: true,
-        columns: ["url", "selector"],
+        columns: ["name", "url", "selector"],
       })
     );
 
   const output = [];
-  for await (const { url, selector } of rows) {
+  for await (const { name, url, selector } of rows) {
     const html = await fetch(url).then((r) => r.text());
     const $ = cheerio.load(html);
     const price = $(selector).text().trim();
-    const row = { url, price };
+    const row = { name, url, price };
 
     output.push(row);
   }
 
   const encoder = new TextEncoder();
   sink.write(
-    encoder.encode(stringify(output, { columns: ["url", "price"] }).trim())
+    encoder.encode(
+      stringify(output, { columns: ["name", "url", "price"] }).trim()
+    )
   );
 }
 

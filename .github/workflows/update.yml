@@ -35,7 +35,11 @@ jobs:
           deno cache --reload --lock=deno.lock --lock-write scrape.ts
 
       - name: Fetch
-        run: ./run.sh
+        run: deno run --allow-read --allow-write --allow-net scrape.ts
+
+      - name: Readme
+        run: |
+          deno run --allow-read --allow-write update_readme.ts
 
       - name: commit
         run: |
