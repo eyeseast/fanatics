@@ -1,8 +1,5 @@
 {
   "version": "3",
-  "redirects": {
-    "https://esm.sh/v135/@types/cheerio@~0.22/index.d.ts": "https://esm.sh/v135/@types/cheerio@0.22.35/index.d.ts"
-  },
   "remote": {
     "https://deno.land/std@0.195.0/assert/assert.ts": "9a97dad6d98c238938e7540736b826440ad8c1c1e54430ca4c4e623e585607ee",
     "https://deno.land/std@0.195.0/assert/assertion_error.ts": "4d0bde9b374dfbcbe8ac23f54f567b77024fb67dbb1906a852d67fe050d42f56",
