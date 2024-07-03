@@ -10,3 +10,4 @@ Current prices:
 - [The Guard Retention Anthology: Around And Under By Lachlan Giles & Ariel Tabak](https://bjjfanatics.com/products/the-guard-retention-anthology-by-lachlan-giles-ariel-tabak): $127.00
 - [The Guard Retention Anthology: Through The Legs And Close Range By Lachlan Giles & Ariel Tabak](https://bjjfanatics.com/products/the-guard-retention-anthology-through-the-legs-and-close-range-by-lachlan-giles-ariel-tabak): $127.00
 - [The Fastest Way: To Become An Effective Guard Passer (No Gi) By John Danaher](https://bjjfanatics.com/products/the-fastest-way-to-become-an-effective-guard-passer-no-gi-by-john-danaher): $217.00
+- [Turning Defensive Cycles Into Offensive Cycles By Chris Paines](https://bjjfanatics.com/products/turning-defensive-cycles-into-offensive-cycles-by-chris-paines): $79.00
