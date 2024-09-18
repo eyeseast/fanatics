@@ -10,5 +10,5 @@ Current prices:
 - [The Fastest Way: To Become An Effective Guard Passer (No Gi) By John Danaher](https://bjjfanatics.com/products/the-fastest-way-to-become-an-effective-guard-passer-no-gi-by-john-danaher): $197.00
 - [Basic Bitch Knee Cuts by Ffion Davies](https://bjjfanatics.com/products/knee-cutting-by-ffion-davies): $127.00
 - [Tripod Passing: Beating Inside Position by Jozef Chen](https://bjjfanatics.com/products/tripod-passing-beating-inside-position-by-jozef-chen): $63.50
-- [Rumble Passing: BJJ Trendsetters by Dima Murovanni](https://bjjfanatics.com/products/rumble-passing-bjj-trendsetters-by-dima-murovanni): $127.00000127.00
-- [Tripod Passing: Beating Inside Position by Jozef Chen](https://bjjfanatics.com/products/tripod-passing-beating-inside-position-by-jozef-chen): $127.0000
+- [Rumble Passing: BJJ Trendsetters by Dima Murovanni](https://bjjfanatics.com/products/rumble-passing-bjj-trendsetters-by-dima-murovanni): $127.00
+- [Defense To Offense: Attacking From The Elbow Frame by Charles Harriott](https://bjjfanatics.com/products/defense-to-offense-attacking-from-the-elbow-frame-by-charles-harriott): $79.00
