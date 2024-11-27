@@ -16,7 +16,7 @@
     "https://deno.land/std@0.195.0/streams/_common.ts": "f45cba84f0d813de3326466095539602364a9ba521f804cc758f7a475cda692d",
     "https://deno.land/std@0.195.0/streams/delimiter_stream.ts": "f69e849b3d1f59f02424497273f411105a6f76a9f13da92aeeb9a2d554236814",
     "https://deno.land/std@0.195.0/streams/text_delimiter_stream.ts": "20e680ab8b751390e359288ce764f9c47d164af11a263870746eeca4bc7d976b",
-    "https://esm.sh/cheerio@0.22.0": "6c3076bb4e34dc18c5ddc22c4ef3fffcc4bbd134b450ec0616d7701ce28c48c3",
+    "https://esm.sh/cheerio@0.22.0": "792aac7a88214a7d0adb70809380d7156857573915ffae243f648719d4d7895f",
     "https://esm.sh/v135/boolbase@1.0.0/denonext/boolbase.mjs": "4e3bd67e9b1c5c55094eae98345d0107c6a44ef57bd3d4b9579698fa44722280",
     "https://esm.sh/v135/cheerio@0.22.0/denonext/cheerio.mjs": "47e4b8f2102c06b11e664bf702a7396d0d5499b13bb6a260113b9835a0364be4",
     "https://esm.sh/v135/css-select@1.2.0/denonext/css-select.mjs": "e48cb4f8f3036d24df5abcff1f23a34f9d65eff25bcb7bfef640f2e8d2cfd63e",
