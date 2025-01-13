@@ -12,4 +12,4 @@ Current prices:
 - [Rumble Passing: BJJ Trendsetters by Dima Murovanni](https://bjjfanatics.com/products/rumble-passing-bjj-trendsetters-by-dima-murovanni): $127.00
 - [Defense To Offense: Attacking From The Elbow Frame by Charles Harriott](https://bjjfanatics.com/products/defense-to-offense-attacking-from-the-elbow-frame-by-charles-harriott): $79.00
 - [Butterfly Guard Re-discovered: No Gi Butterfly Guard Encyclopedia by Adam Wardzinski](https://bjjfanatics.com/products/butterfly-guard-re-discovered-no-gi-butterfly-guard-encyclopedia-by-adam-wardzinski): $127.00
-- [The No Gi Butterfly Guard Rediscovered by Adam Wardzinski](https://bjjfanatics.com/products/the-no-gi-butterfly-guard-rediscovered-by-adam-wardzinski): $31.60
+- [The No Gi Butterfly Guard Rediscovered by Adam Wardzinski](https://bjjfanatics.com/products/the-no-gi-butterfly-guard-rediscovered-by-adam-wardzinski): $79.00
