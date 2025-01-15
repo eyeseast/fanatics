@@ -73,7 +73,7 @@
     "https://esm.sh/boolbase@1.0.0/denonext/boolbase.mjs": "70e9521b9532b5e4dc0c807422529b15b4452663dbdb70dff9c7b65d0ff2e3cb",
     "https://esm.sh/boolbase@1.0.0?target=denonext": "5d10bc2e0fb13eedfc6859bffbeb5a6f08679797fa8740c7d821841c2e22945f",
     "https://esm.sh/cheerio@0.22.0": "eac222c5c00389c9e6a96f3f932271977b00543b489890c161e1071474f0a587",
-    "https://esm.sh/cheerio@0.22.0/denonext/cheerio.mjs": "74fbe2ab7c8d0ae78a2ac80de938f82f73b9809ce9e48f58650268e92e670804",
+    "https://esm.sh/cheerio@0.22.0/denonext/cheerio.mjs": "ab96fe18803531453f1817aece1c4b88f886c41bf9c31c123924eb32b05b3754",
     "https://esm.sh/css-select@1.2.0/denonext/css-select.mjs": "6a896fa833886262417b6547055686f175c8fb379778104d6070f4b3b2f14faa",
     "https://esm.sh/css-select@1.2.0?target=denonext": "99e521a3bf68091568fc6bd7a141660a320a263fdd58dee04a55a2f1c6964fe3",
     "https://esm.sh/css-what@2.1.3/denonext/css-what.mjs": "f906e30f28264610cfd57c17d7532df31ab6453a1b566c5ff824d692980a2b8c",
