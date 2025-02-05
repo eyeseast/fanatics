@@ -100,7 +100,7 @@
     "https://esm.sh/entities@1.1.2?target=denonext": "e7f2e4a31d9c620b773c4f3b9b0dfc59f78180790c70406a137c91f123fc41d4",
     "https://esm.sh/entities@2.2.0/denonext/entities.mjs": "8b32ea0028048845fab8d5f38d842f94cc6cde9a7c119a1c31a91a1d28df68ef",
     "https://esm.sh/entities@2.2.0?target=denonext": "1c51d3da06cb39e0cf1075ea38b83b28ca1c9c1429d41a51c52f9693df8810ef",
-    "https://esm.sh/htmlparser2@3.10.1/denonext/htmlparser2.mjs": "e711856268fd2621e0e42b41cca2a63d1654554b419dcb26fa58d3f459422111",
+    "https://esm.sh/htmlparser2@3.10.1/denonext/htmlparser2.mjs": "012242d2887a94f1493158a7eebd2704b3d3d6dfcf434736ee74132de5e46f1d",
     "https://esm.sh/htmlparser2@3.10.1?target=denonext": "d9c4a8ca59eb2d0b50e297a7f476c16ff879d735d4510333107d54999ad92f30",
     "https://esm.sh/lodash.assignin@4.2.0/denonext/lodash.assignin.mjs": "a3f52bb8c66b0f11d11e5344a80ccb2ab20c08185a432dcbeab144391c0d9ffd",
     "https://esm.sh/lodash.assignin@4.2.0?target=denonext": "58cfa93a7ea4c91363909b50e894f4266377de5e4fa424bd9c8b49374d3c90a6",
