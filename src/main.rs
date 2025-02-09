@@ -18,7 +18,7 @@ struct Record {
     price: String,
 }
 
-#[derive(Debug, Serialize)]
+#[derive(Debug, Serialize, Deserialize)]
 struct Price {
     name: String,
     url: String,
@@ -54,7 +54,7 @@ fn main() {
     if config.cmd == "update" {
         let _ = update(config.target);
     } else if config.cmd == "readme" {
-        readme(config.target);
+        let _ = readme(&config.target);
     }
 }
 
@@ -92,7 +92,31 @@ fn update(urls: String) -> Result<(), Box<dyn Error>> {
 }
 
 // read prices.csv and write README to stdout
-fn readme(_prices: String) {}
+fn readme(prices: &str) -> Result<(), Box<dyn Error>> {
+    let file = File::open(prices).expect("problem reading file: {prices}");
+    let mut reader = csv::Reader::from_reader(file);
+
+    // header
+    println!(
+        "# fanatics
+
+Current prices:
+"
+    );
+
+    for row in reader.deserialize() {
+        let price: Price = row?;
+        println!(
+            "- [{name}]({url}): {current} (${usual})",
+            name = price.name,
+            url = price.url,
+            current = price.current,
+            usual = price.usual,
+        )
+    }
+
+    Ok(())
+}
 
 // fetch a URL and return html as text
 fn fetch(url: &str) -> Result<String, reqwest::Error> {
@@ -101,31 +125,17 @@ fn fetch(url: &str) -> Result<String, reqwest::Error> {
         .build()?;
     let res = client.get(url).send()?;
     res.text()
-    //reqwest::blocking::get(url)?.text()
 }
 
 fn scrape(html: &str) -> String {
     let doc = Html::parse_document(html);
     let selector = Selector::parse(SELECTOR).unwrap();
-    let title_selector = Selector::parse("title").unwrap();
-
-    match doc.select(&title_selector).next() {
-        Some(t) => {
-            let title: Vec<&str> = t.text().collect();
-            let title = title.join("");
-            println!("{title}");
-        }
-        None => println!("no title"),
-    }
 
     let mut price = String::new();
     for el in doc.select(&selector) {
-        // let html = el.html();
-        // println!("found {html}");
         let text: Vec<&str> = el.text().collect();
-
         if text.len() > 0 {
-            price = text.join("");
+            price = text.join("").trim().to_string();
             break;
         }
     }
