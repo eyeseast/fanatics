@@ -1,5 +1,3 @@
-# run on a chron
-
 name: Update
 
 on:
@@ -10,7 +8,8 @@ on:
     - cron: "5 */4 * * *"
 
 env:
-  DENO_DIR: cache
+  # Disable incremental compilation for faster from-scratch builds
+  CARGO_INCREMENTAL: 0
 
 jobs:
   update:
@@ -18,28 +17,20 @@ jobs:
 
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+      - uses: Swatinem/rust-cache@v2
 
-      - uses: denoland/setup-deno@v1
-        with:
-          deno-version: v1.x
+      - name: rustup
+        run: rustup update
 
-      - name: Cache Deno dependencies
-        uses: actions/cache@v3
-        with:
-          path: ${{ env.DENO_DIR }}
-          key: ${{ hashFiles('deno.lock') }}
+      - name: build
+        run: cargo build --release
 
-      - name: Dependencies
-        run: |
-          deno cache --reload --lock=deno.lock --lock-write scrape.ts
-
-      - name: Fetch
-        run: deno run --allow-read --allow-write --allow-net scrape.ts
+      - name: Update
+        run: ./target/release/fanatics update urls.csv > prices.csv
 
       - name: Readme
-        run: |
-          deno run --allow-read --allow-write update_readme.ts
+        run: ./target/release/fanatics readme prices.csv > README.md
 
       - name: commit
         run: |
