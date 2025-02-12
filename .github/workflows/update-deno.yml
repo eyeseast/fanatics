@@ -24,18 +24,18 @@ jobs:
         uses: actions/cache@v3
         with:
           path: ${{ env.DENO_DIR }}
-          key: ${{ hashFiles('deno.lock') }}
+          key: ${{ hashFiles('deno/deno.lock') }}
 
       - name: Dependencies
         run: |
-          deno cache --reload --lock=deno.lock --lock-write scrape.ts
+          deno cache --reload --lock=deno.lock --lock-write deno/scrape.ts
 
       - name: Fetch
-        run: deno run --allow-read --allow-write --allow-net scrape.ts
+        run: deno run --allow-read --allow-write --allow-net deno/scrape.ts
 
       - name: Readme
         run: |
-          deno run --allow-read --allow-write update_readme.ts
+          deno run --allow-read --allow-write deno/update_readme.ts
 
       - name: commit
         run: |
