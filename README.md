@@ -8,7 +8,7 @@ Current prices:
 - [The Guard Retention Anthology: Around And Under By Lachlan Giles & Ariel Tabak](https://bjjfanatics.com/products/the-guard-retention-anthology-by-lachlan-giles-ariel-tabak): $127.00 ($127)
 - [The Guard Retention Anthology: Through The Legs And Close Range By Lachlan Giles & Ariel Tabak](https://bjjfanatics.com/products/the-guard-retention-anthology-through-the-legs-and-close-range-by-lachlan-giles-ariel-tabak): $127.00 ($127)
 - [The Fastest Way: To Become An Effective Guard Passer (No Gi) By John Danaher](https://bjjfanatics.com/products/the-fastest-way-to-become-an-effective-guard-passer-no-gi-by-john-danaher): $197.00 ($197)
-- [Basic Bitch Knee Cuts by Ffion Davies](https://bjjfanatics.com/products/knee-cutting-by-ffion-davies): $63.50 ($127)
+- [Basic Bitch Knee Cuts by Ffion Davies](https://bjjfanatics.com/products/knee-cutting-by-ffion-davies): $127.00 ($127)
 - [Rumble Passing: BJJ Trendsetters by Dima Murovanni](https://bjjfanatics.com/products/rumble-passing-bjj-trendsetters-by-dima-murovanni): $127.00 ($127)
 - [Butterfly Guard Re-discovered: No Gi Butterfly Guard Encyclopedia by Adam Wardzinski](https://bjjfanatics.com/products/butterfly-guard-re-discovered-no-gi-butterfly-guard-encyclopedia-by-adam-wardzinski): $127.00 ($127)
 - [The No Gi Butterfly Guard Rediscovered by Adam Wardzinski](https://bjjfanatics.com/products/the-no-gi-butterfly-guard-rediscovered-by-adam-wardzinski): $79.00 ($79)
