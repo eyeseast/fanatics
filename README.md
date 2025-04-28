@@ -10,7 +10,7 @@ Current prices:
 - [The Fastest Way: To Become An Effective Guard Passer (No Gi) By John Danaher](https://bjjfanatics.com/products/the-fastest-way-to-become-an-effective-guard-passer-no-gi-by-john-danaher): $197.00 ($197)
 - [Basic Bitch Knee Cuts by Ffion Davies](https://bjjfanatics.com/products/knee-cutting-by-ffion-davies): $127.00 ($127)
 - [Rumble Passing: BJJ Trendsetters by Dima Murovanni](https://bjjfanatics.com/products/rumble-passing-bjj-trendsetters-by-dima-murovanni): $63.50 ($127)
-- [Butterfly Guard Re-discovered: No Gi Butterfly Guard Encyclopedia by Adam Wardzinski](https://bjjfanatics.com/products/butterfly-guard-re-discovered-no-gi-butterfly-guard-encyclopedia-by-adam-wardzinski): $127.00 ($127)
+- [Butterfly Guard Re-discovered: No Gi Butterfly Guard Encyclopedia by Adam Wardzinski](https://bjjfanatics.com/products/butterfly-guard-re-discovered-no-gi-butterfly-guard-encyclopedia-by-adam-wardzinski):  ($127)
 - [The No Gi Butterfly Guard Rediscovered by Adam Wardzinski](https://bjjfanatics.com/products/the-no-gi-butterfly-guard-rediscovered-by-adam-wardzinski):  ($79)
 - [Diamond Concept: The Diamond Guard Frame, Shield, Elegant, Pedal by Xande Ribeiro](https://bjjfanatics.com/products/diamond-concept-of-defense-by-xande-ribeiro):  ($79)
 - [Askren Wrestling Academy Kids Manual by Ben Askren](https://fanaticwrestling.com/products/askren-wrestling-academy-kids-manual-by-ben-askren):  ($77)
