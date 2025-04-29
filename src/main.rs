@@ -3,7 +3,7 @@ use scraper::{Html, Selector};
 use serde::{Deserialize, Serialize};
 use std::{env, error::Error, fs::File, io, process};
 
-const SELECTOR: &str = r#"#ProductPrice-product"#;
+const SELECTOR: &str = r#"#ProductPrice-product span"#;
 
 const HELP: &str = "fanatics update urls.csv > prices.csv
 fanatics readme prices.csv > README.md
@@ -139,11 +139,6 @@ fn scrape(html: &str) -> String {
             break;
         }
     }
-    /*
-    match doc.select(&selector).next() {
-        Some(el) => price = el.inner_html(),
-        None => price = String::new(),
-    }*/
 
     price
 }
