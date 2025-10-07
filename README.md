@@ -9,7 +9,7 @@ Current prices:
 - [Overhook From Everywhere by Adele Fornarino](https://bjjfanatics.com/products/overhook-from-everywhere-by-adele-fornarino): $39.50 ($79)
 - [The B Team Bottom Game: Imparting Wrestling, Turtling, and Heisting For Superior Results by Craig Jones](https://bjjfanatics.com/products/bteam-bottom-by-craig-jones): $197.00 ($197)
 - [Nicky Ryan's Wrestle Up Series by Nicky Ryan](https://bjjfanatics.com/products/nicky-ryans-wrestle-up-series-by-nicky-ryan): $197.00 ($197)
-- [Wrestling Up From Guard by Dante Leon](https://bjjfanatics.com/products/wrestling-up-from-guard-by-dante-leon):  ($79)
+- [Wrestling Up From Guard by Dante Leon](https://bjjfanatics.com/products/wrestling-up-from-guard-by-dante-leon): $79.00 ($79)
 - [Butterfly Guard Re-discovered: No Gi Butterfly Guard Encyclopedia by Adam Wardzinski](https://bjjfanatics.com/products/butterfly-guard-re-discovered-no-gi-butterfly-guard-encyclopedia-by-adam-wardzinski):  ($127)
 - [Basic Bitch Knee Cuts by Ffion Davies](https://bjjfanatics.com/products/knee-cutting-by-ffion-davies):  ($127)
 - [Rumble Passing: BJJ Trendsetters by Dima Murovanni](https://bjjfanatics.com/products/rumble-passing-bjj-trendsetters-by-dima-murovanni):  ($127)
