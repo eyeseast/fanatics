@@ -2,7 +2,7 @@
 
 Current prices:
 
-- [Diamond Concept: The Diamond Guard Frame, Shield, Elegant, Pedal by Xande Ribeiro](https://bjjfanatics.com/products/diamond-concept-of-defense-by-xande-ribeiro): $31.60 ($79)
+- [Diamond Concept: The Diamond Guard Frame, Shield, Elegant, Pedal by Xande Ribeiro](https://bjjfanatics.com/products/diamond-concept-of-defense-by-xande-ribeiro): $79.00 ($79)
 - [Guard Retention Anthology Bundle By Lachlan Giles & Ariel Tabak](https://bjjfanatics.com/products/guard-retention-anthology-bundle-by-lachlan-giles-ariel-tabak): $247.00 ($247)
 - [The Guard Retention Anthology: Around And Under By Lachlan Giles & Ariel Tabak](https://bjjfanatics.com/products/the-guard-retention-anthology-by-lachlan-giles-ariel-tabak): $127.00 ($127)
 - [The Guard Retention Anthology: Through The Legs And Close Range By Lachlan Giles & Ariel Tabak](https://bjjfanatics.com/products/the-guard-retention-anthology-through-the-legs-and-close-range-by-lachlan-giles-ariel-tabak): $127.00 ($127)
