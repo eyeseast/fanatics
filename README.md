@@ -4,7 +4,7 @@ Current prices:
 
 - [Diamond Concept: The Diamond Guard Frame, Shield, Elegant, Pedal by Xande Ribeiro](https://bjjfanatics.com/products/diamond-concept-of-defense-by-xande-ribeiro): $79.00 ($79)
 - [Guard Retention Anthology Bundle By Lachlan Giles & Ariel Tabak](https://bjjfanatics.com/products/guard-retention-anthology-bundle-by-lachlan-giles-ariel-tabak): $247.00 ($247)
-- [The Guard Retention Anthology: Around And Under By Lachlan Giles & Ariel Tabak](https://bjjfanatics.com/products/the-guard-retention-anthology-by-lachlan-giles-ariel-tabak): $127.00 ($127)
+- [The Guard Retention Anthology: Around And Under By Lachlan Giles & Ariel Tabak](https://bjjfanatics.com/products/the-guard-retention-anthology-by-lachlan-giles-ariel-tabak): $63.50 ($127)
 - [The Guard Retention Anthology: Through The Legs And Close Range By Lachlan Giles & Ariel Tabak](https://bjjfanatics.com/products/the-guard-retention-anthology-through-the-legs-and-close-range-by-lachlan-giles-ariel-tabak): $127.00 ($127)
 - [Overhook From Everywhere by Adele Fornarino](https://bjjfanatics.com/products/overhook-from-everywhere-by-adele-fornarino): $79.00 ($79)
 - [The B Team Bottom Game: Imparting Wrestling, Turtling, and Heisting For Superior Results by Craig Jones](https://bjjfanatics.com/products/bteam-bottom-by-craig-jones): $98.50 ($197)
@@ -15,6 +15,6 @@ Current prices:
 - [Rumble Passing: BJJ Trendsetters by Dima Murovanni](https://bjjfanatics.com/products/rumble-passing-bjj-trendsetters-by-dima-murovanni): $127.00 ($127)
 - [The No Gi Butterfly Guard Rediscovered by Adam Wardzinski](https://bjjfanatics.com/products/the-no-gi-butterfly-guard-rediscovered-by-adam-wardzinski): $79.00 ($79)
 - [Askren Wrestling Academy Kids Manual by Ben Askren](https://fanaticwrestling.com/products/askren-wrestling-academy-kids-manual-by-ben-askren):  ($77)
-- [Power Top: Penetrate And Pull Out Of Dangerous Entanglements By Craig Jones](https://bjjfanatics.com/products/power-top-penetrate-and-pull-out-of-dangerous-entanglements-by-craig-jones): $197.00 ($197)
+- [Power Top: Penetrate And Pull Out Of Dangerous Entanglements By Craig Jones](https://bjjfanatics.com/products/power-top-penetrate-and-pull-out-of-dangerous-entanglements-by-craig-jones): $98.50 ($197)
 - [The Fastest Way: To Become An Effective Guard Passer (No Gi) By John Danaher](https://bjjfanatics.com/products/the-fastest-way-to-become-an-effective-guard-passer-no-gi-by-john-danaher): $197.00 ($197)
 - [The Best Marcelo Garcia Techniques Taught By His Black Belt Instructors By Team Marcelo Garcia](https://bjjfanatics.com/products/the-best-marcelo-garcia-techniques-taught-by-his-black-belt-instructors-by-team-marcelo-garcia): $127.00 ($127)
